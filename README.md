@@ -1,5 +1,5 @@
-# Namaste React 🚀
-# Namaste React 🚀
+ React 🚀
+ React 🚀
 # Parcel
 - Dev Build
 - Local Server
